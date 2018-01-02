@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">UberEatsApp</string>
+	<string name="userid">Customer ID</string>
+	<string name="firstn">Firstname</string>
+	<string name="lastn">Lastname</string>
+	<string name="contact">Contact number</string>
+	<string name="credit">Credity Card Number</string>
+	<string name="email">Email address</string>
+	<string name="pwd">Password</string>
+	<string name="signingup">Sign Up</string>
+	<string name="signingin">Sign In</string>
+	<string name="newAcc">Create An Account</string>
+	<string name="update">Update Profile</string>
+    <string name="cardName">Card Name</string>
+    <string name="makepayment">Pay</string>
+    <string name="ccvnumber">Card CCV</string>
+    <string name="deliveryAddress">Delivery Address</string>
+</resources>

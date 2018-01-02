@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android"> 
+  <item 
+      android:id = "@+id/login_id" 
+      android:title = "Login" 
+      android:showAsAction = "never" />
+     <item 
+      android:id = "@+id/reg_id" 
+      android:title = "Register" 
+      android:showAsAction = "never" />
+</menu>

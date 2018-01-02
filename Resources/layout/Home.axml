@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+    <LinearLayout
+        android:id="@+id/Text"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip">
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="222.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtName"
+            android:text="Restaurant Name" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="222.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtCitty"
+            android:text="City" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="222.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtContct"
+            android:text="Contact" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/Image"
+        android:layout_width="131.5dp"
+        android:layout_height="128.0dp"
+        android:padding="5dp"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>
